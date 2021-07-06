@@ -1,3 +1,3 @@
 # novalapp-projeto
-Install: yarn
-Get Started: yarn android
+### Install: yarn
+### Get Started: yarn android
